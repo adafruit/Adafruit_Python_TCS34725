@@ -13,6 +13,6 @@ To install the library from source (recommended) run the following commands on a
 
 Alternatively you can install from pip with:
 
-    sudo pip install adafruit-ads1x15
+    sudo pip install adafruit-tcs34725
 
 Note that the pip install method **won't** install the example code.
