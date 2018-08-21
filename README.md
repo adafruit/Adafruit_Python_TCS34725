@@ -1,4 +1,18 @@
-# Adafruit Python TCS34725
+# DEPRECATED LIBRARY Adafruit Python TCS34725
+
+This library has been deprecated!
+
+We are now only using our CircuitPython sensor libraries in Python.
+
+We are leaving the code up for historical/research purposes but archiving the
+repository.
+
+Check out this guide for using the TCS34725 with Python!
+
+https://learn.adafruit.com/adafruit-color-sensors/python-circuitpython
+
+----
+
 Python code to use the TCS34725 color sensor with the Raspberry Pi &amp; BeagleBone Black.
 
 ## Installation
