@@ -27,7 +27,7 @@ classifiers = ['Development Status :: 4 - Beta',
                'Topic :: System :: Hardware']
 
 setup(name              = 'Adafruit_TCS34725',
-      version           = '1.0.2',
+      version           = '1.0.3',
       author            = 'Tony DiCola',
       author_email      = 'tdicola@adafruit.com',
       description       = 'Python code to use the TCS34725 color sensor with the Raspberry Pi & BeagleBone Black.',
@@ -37,6 +37,6 @@ setup(name              = 'Adafruit_TCS34725',
       dependency_links  = ['https://github.com/adafruit/Adafruit_Python_GPIO/tarball/master#egg=Adafruit-GPIO-0.6.5'],
       install_requires  = ['Adafruit-GPIO>=0.6.5'],
       packages          = find_packages(),
-      
+
       long_description = long_description,
       long_description_content_type = 'text/markdown')
